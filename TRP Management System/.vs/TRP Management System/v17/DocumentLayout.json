@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|c:\\users\\asifk\\desktop\\trp\\trp management system\\trp management system\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\channel\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\channel\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\channel\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\channel\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\channel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\channel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\channel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\channel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\channel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\channel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\channel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\channel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\program\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\program\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\program\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\program\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\program\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\program\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\program\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\program\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\views\\program\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\views\\program\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\ef\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\ef\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\trp management system\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A012B6E-88B4-448C-B559-ED950A95FF93}|TRP Management System\\TRP Management System.csproj|solutionrelative:trp management system\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\Search.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Channel\\Search.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\Search.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Channel\\Search.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T09:44:20.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\Auth\\Logged.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Auth\\Logged.cs",
+              "RelativeToolTip": "TRP Management System\\Auth\\Logged.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:03:47.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:00:48.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TRP Management System\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:59:33.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\EF\\User.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\EF\\User.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\EF\\User.cs",
+              "RelativeToolTip": "TRP Management System\\EF\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:58:58.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "TRP Management System\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:58:37.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Program\\Details.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Program\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Program\\Details.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Program\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:52:35.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Program\\List.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Program\\List.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Program\\List.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Program\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:52:17.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Program\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Program\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Program\\Delete.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Program\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:51:59.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Program\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Program\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Program\\Edit.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Program\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:51:43.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Program\\Create.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Program\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Program\\Create.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Program\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:51:27.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\Details.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Channel\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\Details.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Channel\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:46:56.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\List.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Channel\\List.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\List.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Channel\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:43:43.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Channel\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\Delete.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Channel\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:32:41.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Channel\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\Edit.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Channel\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:13:59.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\Create.cshtml",
+              "RelativeDocumentMoniker": "TRP Management System\\Views\\Channel\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Views\\Channel\\Create.cshtml",
+              "RelativeToolTip": "TRP Management System\\Views\\Channel\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:10:37.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TRP Management System\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:03:07.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\EF\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\EF\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\EF\\Model1.Context.cs",
+              "RelativeToolTip": "TRP Management System\\EF\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:02:36.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramController.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Controllers\\ProgramController.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\Controllers\\ProgramController.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Controllers\\ProgramController.cs",
+              "RelativeToolTip": "TRP Management System\\Controllers\\ProgramController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:02:17.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChannelController.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Controllers\\ChannelController.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\Controllers\\ChannelController.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\Controllers\\ChannelController.cs",
+              "RelativeToolTip": "TRP Management System\\Controllers\\ChannelController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAiwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:02:05.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\EF\\Program.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\EF\\Program.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\EF\\Program.cs",
+              "RelativeToolTip": "TRP Management System\\EF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:00:32.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProgramDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\DTOs\\ProgramDTO.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\DTOs\\ProgramDTO.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\DTOs\\ProgramDTO.cs",
+              "RelativeToolTip": "TRP Management System\\DTOs\\ProgramDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:59:28.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChannelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\DTOs\\ChannelDTO.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\DTOs\\ChannelDTO.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\DTOs\\ChannelDTO.cs",
+              "RelativeToolTip": "TRP Management System\\DTOs\\ChannelDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:59:13.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Channel.cs",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\EF\\Channel.cs",
+              "RelativeDocumentMoniker": "TRP Management System\\EF\\Channel.cs",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\EF\\Channel.cs",
+              "RelativeToolTip": "TRP Management System\\EF\\Channel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:58:49.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "TRP Management System\\EF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Asifk\\Desktop\\TRP\\TRP Management System\\TRP Management System\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "TRP Management System\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-22T17:57:45.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

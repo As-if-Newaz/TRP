@@ -1,0 +1,71 @@
+﻿@model IEnumerable<TRP_Management_System.DTOs.ChannelDTO>
+
+@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<!-- Search Bar Form -->
+<form method="post" action="@Url.Action("Search", "Channel")">
+    <div class="form-group">
+        <label for="searchName">Search Channel:</label>
+        <input type="text" name="name" id="searchName" class="form-control" placeholder="Enter channel name" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<!-- Results Table -->
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ChannelId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChannelName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EstablishedYear)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Country)
+        </th>
+        <th></th>
+    </tr>
+
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ChannelId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ChannelName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EstablishedYear)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Country)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ChannelId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ChannelId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ChannelId })
+                </td>
+            </tr>
+        }
+    }
+    else
+    {
+        <tr>
+            <td colspan="5">No results found.</td>
+        </tr>
+    }
+</table>
